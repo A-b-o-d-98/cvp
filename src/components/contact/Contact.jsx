@@ -49,7 +49,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              Dubai UAE
+              Dubai  UAE
             </div>
           </div>
         </div>
