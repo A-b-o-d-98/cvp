@@ -41,7 +41,7 @@ const Contact = () => {
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +963 991307349
+              +971 567660070
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
@@ -49,7 +49,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              Homs Syria
+              Dubai UAE
             </div>
           </div>
         </div>
