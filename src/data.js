@@ -14,22 +14,7 @@ export const products = [
   {
     id: 2,
     img: img2,
-    link: "https://zeronequiz.herokuapp.com/",
-  },
-  {
-    id: 3,
-    img: imge,
-    link: "https://agj-e-commerce.herokuapp.com/",
-  },
-  {
-    id: 4,
-    img: img1,
-    link: "https://drhblog.herokuapp.com/",
-  },
-  {
-    id: 5,
-    img:img3 ,
-    link: "http://www.esaal.infinityfreeapp.com/",
+    link: "https://zerone7.netlify.app",
   },
   {
     id: 6,
