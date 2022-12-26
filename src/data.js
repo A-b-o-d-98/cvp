@@ -17,7 +17,7 @@ export const products = [
     link: "https://zerone7.netlify.app",
   },
   {
-    id: 6,
+    id: 3,
     img: img5,
     link: "https://zeroneadventure.netlify.app",
   },
